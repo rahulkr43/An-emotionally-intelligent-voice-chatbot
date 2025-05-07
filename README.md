@@ -1,7 +1,5 @@
 # Speech to Speech with RAG
 
-### YouTube Tutorial:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aNGUTBFP_Wg/0.jpg)](https://www.youtube.com/watch?v=aNGUTBFP_Wg)
 
 ### Requirements for this setup:
 - ffmpeg installed (https://phoenixnap.com/kb/ffmpeg-windows)
@@ -13,8 +11,8 @@
 
 ### How to install and setup:
 
-1. git clone https://github.com/All-About-AI-YouTube/speech-to-rag.git
-2. cd dir speech-to-rag
+1. git clone 
+2. cd dir 
 3. pip install -r requirements.txt
 4. download https://nordnet.blob.core.windows.net/bilde/checkpoints.zip
 5. extract checkpoints.zip to speech-to-rag folder
@@ -28,4 +26,4 @@
 10. start LM studio server (or similar)
 11. run talk3.py (low latency version)
 12. run xtalk.py (quality voice version)
-
+13. run Trag.py for text to text rag 
